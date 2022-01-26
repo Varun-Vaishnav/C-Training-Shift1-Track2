@@ -2,5 +2,5 @@
 
 void main() {
 
-	printf("Hello from main branch");
+	printf("Hello from branch1");
 }
